@@ -12,3 +12,12 @@ Segue abaixo o front-end da aplicação
 <img src="/src/assets/01.png" width="661" height="339">
 
 <img src="/src/assets/02.png" width="661" height="339">
+
+## Build With
+* Angular
+* HTLML
+* CSS
+* Type Script
+
+## Author
+* João Neto :D
