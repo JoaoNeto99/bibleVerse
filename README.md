@@ -1,6 +1,6 @@
 # BibleVerse
 
-O Bible Verse é uma bíblia digital, ele contém todos os textos do velho e novo testamento em várias versões e traduções. Foi implementado em AngularJS e consome a [API - A Biblia Digital](https://github.com/marciovsena/abibliadigital). 
+O Bible Verse é uma bíblia digital, ele contém todos os textos do velho e novo testamento em várias versões e traduções. Foi implementado em AngularJS e consome a  [API - A Biblia Digital](https://github.com/marciovsena/abibliadigital). 
 
 ## Development server
 
