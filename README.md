@@ -9,6 +9,6 @@ Para utilizar, digite `ng serve` para iniciar o servidor e utilize do `http://lo
 ## Interface
 Segue abaixo o front-end da aplicação
 
-![alt text](/src/assets/01.png)
-![alt text](/src/assets/02.png)
-<img src="/src/assets/02.png" width="901" height="463">
+<img src="/src/assets/01.png" width="661" height="339">
+
+<img src="/src/assets/02.png" width="661" height="339">
