@@ -1,0 +1,242 @@
+.down-bar {
+   background: #f5f5f5;
+   height: 50px;
+}
+
+.top-bar {
+   height: 30px;
+   background: #EC7F00;
+}
+
+.top-bar h3 {
+   font-size: 18px;
+   color: white;
+   font-weight: bold;
+   font-family: 'Nunito', sans-serif;
+   line-height: 1em;
+}
+
+.down-bar a h3 {
+   color: white;
+   background: tomato;
+   padding: 0px 40px 0px 0px;
+}
+
+.flex-box {
+   flex-wrap: nowrap;
+}
+
+.vt-titulo{
+   display: flex;
+   background: #FF9800;
+   width: 100%;
+   height: 20px;
+}
+
+.vt-titulo p{
+   color: white;
+   font-size: 15px;
+   text-align: center;
+   margin: 0 auto;
+   transform: translateY(-30%);
+}
+
+.bt{
+   border: transparent;
+}
+
+.abbrev {
+   width: 35px;
+   height: 35px;
+   padding: 5px;
+   margin: 2px;
+   display: inline;
+   text-align: center;
+   text-transform: capitalize;
+   color: #e0f7fa;
+   font-size: 15px;
+}
+
+.abbrev-button button {
+   width: 40px;
+   height: 40px;
+   padding: 5px;
+   margin: 2px;
+   display: inline;
+   text-align: center;
+   text-transform: capitalize;
+   background: #f5f5f5;
+   color: black;
+}
+
+.abbrev-button button:focus {
+   outline: thin dotted;
+   outline: 0px auto -webkit-focus-ring-color;
+   outline-offset: 0px;
+}
+
+.flex-menu-downbar {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 3px;
+}
+
+.texto-container {
+   padding: 10px;
+   width: 100%;
+   display: flex;
+}
+
+.texto-container ul {
+   margin-top: 20px;
+   max-width: 800px;
+   justify-items: center;
+
+}
+
+.nome-livro h2{
+   font-family: Abhaya Libre;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 48px;
+   text-align: center;
+   color: #EC7F00;
+   margin-bottom: 20px;
+}
+
+.texto-p {
+   font-size: 24px; 
+   line-height: 2em;
+   display: inline;
+}
+
+.button-direita {
+   background: none;
+   top: 87%;   
+   right: 2%;
+   position: fixed;
+}
+
+.button-direita button {
+   width:  60px;
+   height: 60px;
+}
+
+.button-direita button:focus {
+   outline: thin dotted;
+   outline: 0px auto -webkit-focus-ring-color;
+   outline-offset: 0px;
+}
+
+.button-direita button:disabled mat-icon {
+   color: #c0c5b8;
+}
+
+
+.button-direita mat-icon {
+   color: #EC7F00;   
+   transform: scale(3);
+   margin: 0 auto;
+}
+
+.button-esquerda {
+   background: none;
+   top: 87%;   
+   left: 2%;
+   position: fixed;
+}
+
+.button-esquerda button {
+   width:  60px;
+   height: 60px;
+}
+
+.button-esquerda button:focus {
+   outline: thin dotted;
+   outline: 0px auto -webkit-focus-ring-color;
+   outline-offset: 0px;
+}
+
+.button-esquerda button:disabled mat-icon {
+   color: #dcdcdc;
+}
+
+.button-esquerda mat-icon {
+   color: #EC7F00;   
+   transform: scale(3);
+   margin: 0 auto;
+}
+/* ---------- */
+
+.dropdown-menu {
+border-radius: 3px;
+padding: 0;
+}
+
+.dropdown {
+   margin-left: 10px;
+}
+
+.dropdown-menu {
+   overflow: scroll;
+   background: white;
+   width: 287px;
+   max-height: 400px;
+   left: 3px;
+   margin-top: 10px;
+   box-shadow: 3px -3px 10px 1px rgba(0, 0, 0, 0.11);
+   -webkit-box-shadow: 3px -3px 10px 1px rgba(0, 0, 0, 0.11);
+
+}
+::-webkit-scrollbar-track {
+   background-color: #f5f5f5;
+}
+::-webkit-scrollbar {
+   width: 6px;
+   background: #f5f5f5;
+}
+::-webkit-scrollbar-thumb {
+   background: #ff9900;
+}
+::-webkit-scrollbar-corner {
+   background: #f5f5f5;
+}
+
+
+
+.dropdown-toggle {
+   padding: 2px 3px 2px 10px;
+   line-height: 1.2em;
+   border-radius: 2px;
+   font-size: 24px;
+   font-family: 'Abhaya Libre', serif;
+   background: #FF9800;
+   border-color: transparent;
+   color: white;
+}
+
+.dropdown-toggle:focus{
+   background: #EC7F00;
+   border-color: transparent;
+   outline: thin dotted;
+   outline: 0px auto -webkit-focus-ring-color;
+   outline-offset: 0px;
+   
+
+}
+
+
+.dropdown-menu:before {
+position: absolute;
+content: "";
+top: -10px;
+left: 10px;
+width: 0;
+height: 0;
+border: 10px solid white;
+border-top: 0;
+border-right-color: transparent;
+border-left-color: transparent;
+}
+
+
