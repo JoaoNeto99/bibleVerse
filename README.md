@@ -10,5 +10,5 @@ Para utilizar, digite `ng serve` para iniciar o servidor e utilize do `http://lo
 Segue abaixo o front-end da aplicação
 
 ![alt text](/src/assets/01.png)
-![alt text](https://drive.google.com/file/d/1OvitN53nlTJeGEKR13zBRZUBg7Dha9FO/view?usp=sharing)
-
+![alt text](/src/assets/02.png)
+<img src="/src/assets/02.png" width="901" height="463">
