@@ -9,6 +9,6 @@ Para utilizar, digite `ng serve` para iniciar o servidor e utilize do `http://lo
 ## Interface
 Segue abaixo o front-end da aplicação
 
-![alt text](https://drive.google.com/file/d/1k3avGaXjLS-2a4XRy6F4vJFs2NrzyVih/view?usp=sharing)
+![alt text](/src/assets/01.png)
 ![alt text](https://drive.google.com/file/d/1OvitN53nlTJeGEKR13zBRZUBg7Dha9FO/view?usp=sharing)
 
